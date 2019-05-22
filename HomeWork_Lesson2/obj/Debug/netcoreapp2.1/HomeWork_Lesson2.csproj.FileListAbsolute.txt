@@ -1,0 +1,11 @@
+D:\ITEA\C# basic\2 lesson\Homework\HomeWork_Lesson2\HomeWork_Lesson2\bin\Debug\netcoreapp2.1\HomeWork_Lesson2.deps.json
+D:\ITEA\C# basic\2 lesson\Homework\HomeWork_Lesson2\HomeWork_Lesson2\bin\Debug\netcoreapp2.1\HomeWork_Lesson2.runtimeconfig.json
+D:\ITEA\C# basic\2 lesson\Homework\HomeWork_Lesson2\HomeWork_Lesson2\bin\Debug\netcoreapp2.1\HomeWork_Lesson2.runtimeconfig.dev.json
+D:\ITEA\C# basic\2 lesson\Homework\HomeWork_Lesson2\HomeWork_Lesson2\bin\Debug\netcoreapp2.1\HomeWork_Lesson2.dll
+D:\ITEA\C# basic\2 lesson\Homework\HomeWork_Lesson2\HomeWork_Lesson2\bin\Debug\netcoreapp2.1\HomeWork_Lesson2.pdb
+D:\ITEA\C# basic\2 lesson\Homework\HomeWork_Lesson2\HomeWork_Lesson2\obj\Debug\netcoreapp2.1\HomeWork_Lesson2.csprojAssemblyReference.cache
+D:\ITEA\C# basic\2 lesson\Homework\HomeWork_Lesson2\HomeWork_Lesson2\obj\Debug\netcoreapp2.1\HomeWork_Lesson2.csproj.CoreCompileInputs.cache
+D:\ITEA\C# basic\2 lesson\Homework\HomeWork_Lesson2\HomeWork_Lesson2\obj\Debug\netcoreapp2.1\HomeWork_Lesson2.AssemblyInfoInputs.cache
+D:\ITEA\C# basic\2 lesson\Homework\HomeWork_Lesson2\HomeWork_Lesson2\obj\Debug\netcoreapp2.1\HomeWork_Lesson2.AssemblyInfo.cs
+D:\ITEA\C# basic\2 lesson\Homework\HomeWork_Lesson2\HomeWork_Lesson2\obj\Debug\netcoreapp2.1\HomeWork_Lesson2.dll
+D:\ITEA\C# basic\2 lesson\Homework\HomeWork_Lesson2\HomeWork_Lesson2\obj\Debug\netcoreapp2.1\HomeWork_Lesson2.pdb
